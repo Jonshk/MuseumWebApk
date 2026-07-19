@@ -1,0 +1,11 @@
+
+# Archivos generados por Gradle
+.gradle/
+**/build/
+
+# Configuración local del SDK
+local.properties
+
+# Historial y archivos temporales del editor
+.history/
+.lh/
